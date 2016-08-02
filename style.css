@@ -55,17 +55,18 @@ body {
 }
 #pok_bild{
     display: block;
-    width: 40%;
+    width: 35%;
     height: 135px;
     margin-left: auto;
     margin-right: auto;
 }
 #go_bild{
     display: block;
-    width: 13%;
-    height: 80px;
+    width: 10%;
+    height: 70px;
     margin-left: auto;
     margin-right: auto;
+    margin-top: -18px;
 }
 #pika_bild{
     float: right;
@@ -104,4 +105,16 @@ footer{
 	height: 50px;
 	width: 50px;
 	background-color: red;
+#pok_bild_types{
+    display: block;
+    width: 10%;
+    height: 60px;
+    margin-left: 30%;
+}
+#go_bild_types{
+    display: block;
+    width: 3%;
+    height: 20px;
+    margin-left: 34%;
+    margin-top: -8px;
 }
