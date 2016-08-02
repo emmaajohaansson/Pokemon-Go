@@ -101,6 +101,14 @@ footer{
 }
 
 /*-----------------------------------Types--------------------*/
+#h1_header_types{
+    position: relative;
+    display: inline;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 80px;
+}
+
 .poke_type {
 	height: 100px;
 	width: 210px;
@@ -121,4 +129,8 @@ footer{
     height: 20px;
     margin-left: 34%;
     margin-top: -8px;
+}
+#header_types{
+    height: 20%;
+    background-color: aqua;
 }
