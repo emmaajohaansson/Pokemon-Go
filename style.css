@@ -51,6 +51,7 @@ table {
 /*--------------------------------------------------------------*/
 body {
 	font-family: 'Cinzel', serif;
+    margin: 0;
 }
 #pok_bild{
     display: block;
@@ -80,7 +81,7 @@ body {
     width: 40px;
 }
 #section_home{
-    height: 400px; 
+    height: 392px; 
 }
 #text_div_home{
     height: 250px;
@@ -89,4 +90,10 @@ body {
     margin-top: 80px;
     margin-left: 200px;
     text-align: center;
+}
+footer{
+    height: 100%;
+    padding: 2px;
+    text-align: center;
+    background-color: #E6E6E6;
 }
