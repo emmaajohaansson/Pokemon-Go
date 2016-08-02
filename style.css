@@ -81,7 +81,7 @@ body {
     width: 40px;
 }
 #section_home{
-    height: 392px; 
+    height: auto; 
 }
 #text_div_home{
     height: 250px;
@@ -96,4 +96,5 @@ footer{
     padding: 2px;
     text-align: center;
     background-color: #E6E6E6;
+	clear: both;
 }
