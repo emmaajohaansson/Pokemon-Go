@@ -100,7 +100,8 @@ footer{
 }
 
 /*-----------------------------------Types--------------------*/
-#pok_bild_types{
-    
+.poke_type {
+	height: 50px;
+	width: 50px;
+	background-color: red;
 }
-#go_bild_types{}
