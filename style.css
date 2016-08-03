@@ -104,6 +104,14 @@ footer{
 #section_types {
 	margin-top: 50px;
 }
+#h1_header_types{
+    position: relative;
+    display: inline;
+    margin-right: 530px;
+    font-size: 80px;
+    float: right;
+    margin-top: 50px;
+}
 .poke_type {
 	height: 300px;
 	width: 300px;
@@ -125,15 +133,19 @@ footer{
 }
 
 #pok_bild_types{
+    position: absolute;
     display: block;
     width: 10%;
     height: 60px;
-    margin-left: 30%;
+    margin-left: 33%;
+    z-index: -1;
 }
 #go_bild_types{
+    position: absolute;
     display: block;
     width: 3%;
     height: 20px;
-    margin-left: 34%;
-    margin-top: -8px;
+    margin-left: 37%;
+    margin-top: 53px;
+    z-index: -1;
 }
