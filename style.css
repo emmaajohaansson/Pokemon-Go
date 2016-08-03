@@ -111,13 +111,25 @@ footer{
 }
 
 .poke_type {
-	height: 100px;
-	width: 210px;
-	background-color: red;
-	padding: 5px;
-	margin: 10px;
+	height: 300px;
+	width: 300px;
+	padding-top: 75px;
+	margin: 30px;
 	text-align: center;
+	display: inline-block;
 }
+
+.type_pictures {
+	border-radius: 50%;
+	height: 200px;
+	width: 200px;
+	opacity: 0.5;
+}
+
+.type_pictures:hover {
+	opacity: 1.0;
+}
+
 #pok_bild_types{
     position: absolute;
     display: block;
