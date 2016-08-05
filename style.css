@@ -103,6 +103,7 @@ footer{
 /*-----------------------------------Types--------------------*/
 #section_types {
 	margin-top: 50px;
+    height: auto;
 }
 #h1_header_types{
     position: relative;
@@ -111,6 +112,7 @@ footer{
     font-size: 80px;
     float: right;
     margin-top: -30px;
+    margin-bottom: 0px;
 }
 .poke_type {
 	height: 300px;
